@@ -1,0 +1,4 @@
+url = "http://host.docker.internal:3000/"
+
+[key]
+data = "b5a64b1ba70cc38af0e9d6b6d97466d1ad1d86fde62c39a3468d758a2cfb8b34"
