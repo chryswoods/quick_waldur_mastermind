@@ -17,7 +17,7 @@ This repo uses container as the base which is overwritten by the docker build fr
 To build the proper container use
 
 ```bash
-rm -rf src && cp -a ../waldur-mastermind/src . && docker build -t chryswoods/waldur-mastermind:7.4.8 .
+rm -rf src && cp -a ../waldur-mastermind/src . && docker build -t chryswoods/waldur-mastermind:7.6.3 .
 ```
 
 
